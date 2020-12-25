@@ -32,7 +32,7 @@ int main()
   if(strlen(str)<7){printf("length 7\n");}
   }while(strlen(str)<7||check(str));  // 0 het thi out vong lap
   
-  
+  //https://www.vssut.ac.in/lecture_notes/lecture1424354156.pdf
  printf("you enter: %s",str);
  
  
